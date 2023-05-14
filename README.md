@@ -6,10 +6,6 @@ Projeto criado com as bibliotecas React JS e Material UI.
 
 1. Clonar o repositório
 2. Localmente, entrar na pasta do projeto e instalar as dependências:
-   `
-   npm install
-   `
+   `yarn`
 3. Executar a aplicação:
-   `
-   npm start
-   `
+   `yarn start`
